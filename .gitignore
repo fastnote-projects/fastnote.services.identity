@@ -1,0 +1,4 @@
+src/FastNote.Services.Identity/bin/*
+src/FastNote.Services.Identity/obj/*
+src/FastNote.Services.Identity.Tests/bin/*
+src/FastNote.Services.Identity.Tests/obj/*
